@@ -203,7 +203,7 @@ const createRecipeForm = () => {
     </div>
   `)
 }
-
+//Pavadinimas
 const createRecipeView = () => {
   return $(`
     <div id="recipe-view">
