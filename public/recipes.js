@@ -203,7 +203,7 @@ const createRecipeForm = () => {
     </div>
   `)
 }
-
+//Pakeitimas
 const createRecipeView = () => {
   return $(`
     <div id="recipe-view">
